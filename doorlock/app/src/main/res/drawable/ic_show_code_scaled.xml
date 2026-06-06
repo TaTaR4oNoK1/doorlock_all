@@ -1,0 +1,8 @@
+<!-- res/drawable/ic_restart_scaled.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/password"
+        android:width="32dp"
+        android:height="32dp"
+        android:gravity="center" />
+</layer-list>

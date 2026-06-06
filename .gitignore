@@ -1,0 +1,16 @@
+/doorlock_server/venv
+*.iml
+/doorlock_server.gradle
+/doorlock_server/local.properties
+/doorlock_server/.idea/caches
+/doorlock_server/.idea/libraries
+/doorlock_server/.idea/modules.xml
+/doorlock_server/.idea/workspace.xml
+/doorlock_server/.idea/navEditor.xml
+/doorlock_server/.idea/assetWizardSettings.xml
+/doorlock_server.DS_Store
+/doorlock_server/build
+/doorlock_server/captures
+/doorlock_server.externalNativeBuild
+/doorlock_server.cxx
+/doorlock_serverlocal.properties
